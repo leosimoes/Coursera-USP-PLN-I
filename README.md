@@ -5,6 +5,7 @@ Atividades do curso "Processamento Neural de Linguagem Natural em Português I" 
 
 ## Atividades
 - Lista 1
+- Lista 2
 
 ## Referências
 Coursera - USP - Processamento Neural de Linguagem Natural em Português I:
